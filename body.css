@@ -1,0 +1,18 @@
+body {
+  background: url("https://imgur.com/a/JswvfOY") no-repeat center center fixed;
+  background-size: cover;
+}
+.col-md-9.col-xs-12 {
+  background: rgba(253, 221, 216, 0.8) !important;
+  border-radius: 15px;
+  box-shadow: 0 0 8px rgba(255, 255, 255, 0.25); 
+  padding: 10px;
+  border: none !important;
+}
+.col-md-9.col-xs-12 {
+  background: rgba(45, 255, 200, 0.8) !important;
+  border-radius: 15px;
+  box-shadow: 0 0 8px rgba(255, 255, 255, 0.25); 
+  padding: 10px;
+  border: none !important;
+}
